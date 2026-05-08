@@ -1080,6 +1080,8 @@ as the main application file.
 
 Once deployed, the system can be accessed through a public web link and shared on GitHub, LinkedIn, or a professional portfolio.
 
+## Live Demo
 
+https://heart-disease-predictor-ml-hassan.streamlit.app
 
 
